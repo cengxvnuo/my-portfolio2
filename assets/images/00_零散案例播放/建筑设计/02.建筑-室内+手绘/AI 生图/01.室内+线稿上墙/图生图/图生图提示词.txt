@@ -1,0 +1,102 @@
+1：建筑+分析1
+Use the uploaded base image as the exact redraw base.
+
+Strictly preserve the original building content, including the building massing, façade proportions, window and opening positions, street relationship, surrounding context, camera angle, and overall composition. Do not redesign the architecture and do not generate a different building. Keep the original content clearly recognizable.
+
+Only transform the image into a poetic architectural research collage. The final image should feel like a realistic architectural rendering blended with loose black ink architectural sketch overlays. Use a mostly white architectural drawing-field background, as if the building is placed on tracing paper. Reduce the surrounding urban context into delicate line drawings while keeping the main building rendered and visually dominant.
+
+Add sparse but accurate architectural overlays: black hand-drawn annotations, dotted movement paths, vertical reference lines, façade study marks, a few circular zoom-in callouts, and a few small numbered markers. These overlays should support the building rather than overwhelm it, and they must feel meaningful rather than random.
+
+Preserve warm interior lights, transparent glass facade areas, muted brick or pale material tones, black metal details, small street trees, and tiny people if already present in the base image. The overall image should be airy, elegant, experimental, unfinished in a refined way, and portfolio-like.
+
+The final result should look like:
+real architectural image + hand-drawn research sketch overlay + artistic portfolio collage.
+
+Do not make it a polished infographic board. Do not make it a dense technical poster. Do not add excessive text, random scribbles, fake engineering clutter, or a completely different composition.
+Do not change the building design.
+Do not alter the composition.
+Do not add dense text blocks.
+Do not create a rigid presentation board.
+Do not add random graphic noise.
+
+2：客厅+分析1.png  gpt
+
+请基于垫图对画面进行重新绘制，保持垫图的整体构图、相机视角、空间关系、主要家具位置和画面一致性，不要重新发明一个完全不同的空间。
+同时参考初始参考图的整体图像风格与氛围，将画面转化为一种艺术化建筑研究图的表达方式。
+
+目标不是复制参考图的具体窗型、家具或图稿排布，而是学习它的底层图像语言：
+
+大面积留白墙面
+高级、安静、轻盈的空间气质
+真实空间与建筑分析图层融合
+图纸叠层不是装饰，而是解释空间
+画面具有建筑作品集式的艺术感与研究感
+
+请保持垫图画面主体一致，并将其重新绘制为：
+真实室内空间 + 艺术化建筑图纸叠层 + 精准优化后的分析图线稿。
+
+分析图要求：
+
+必须针对当前室内空间本身
+必须准确、可解释、与空间对象对应
+不能是随机乱画
+不能是满版信息展板
+不能是伪科技UI
+
+分析图可包含少量但有效的内容：
+
+平面图 / 局部平面叠图
+少量立面 / 剖面关系
+轴线、比例线、尺寸线
+局部节点编号
+少量分析框和局部放大图
+少量材质 / 纹理分析图
+可加入少量艺术化彩色平面图，用来丰富墙面
+
+线稿应与墙面和空间自然融合，整体呈现为：
+
+轻盈
+精准
+艺术化
+克制
+高级
+不僵硬
+
+不要把分析图画成独立挂图，也不要太整齐地排成展板。
+应该像建筑师在真实空间上叠加的一层经过设计的研究图层。
+
+空间本身要保留真实感与完整性，家具和功能关系延续垫图。
+如果是客厅 / lounge，应保留满足使用需求的家具组合，并让空间具有一定层次，例如开窗、门洞、或通向另一个空间的开口。
+地面保持艺术化高级材质，不做强反光镜面。
+整体色调接近初始参考图：浅灰白、骨白、浅雾灰、少量深木色 / 棕色 / 黑色节点。
+最终效果要像：
+
+“垫图的空间结构 + 初始参考图的艺术化研究图气质 + 更准确的分析图内容”
+
+
+3.客厅+分析2
+
+请在这个图基础上绘制艺术化室内建筑研究图。  
+
+画面主体是一个真实可信的现代 lounge / 客厅空间，空间必须先成立为真实室内效果图，具有明确的墙面、地面、家具、灯具、进深和材质关系。空间中需要有沙发、单椅、茶几、地毯、吊灯或吊灯组、边几和少量陈设，整体具有高端室内设计感。
+
+画面需要有一面大面积白色或浅灰白墙面，这面墙作为建筑图纸场域。请在墙面上融合黑色建筑分析线稿，而不是贴一张独立海报。线稿应像建筑师的空间研究图层，轻盈、精密、艺术化，并与当前空间对象对应。
+
+分析图内容可以包括：平面叠图、局部平面图、立面线稿、剖面提示、空间轴线、网格线、比例弧线、尺寸标注、节点编号、圆形局部放大图、材料或纹理分析小图。分析图数量可以丰富，但需要有层级，不要变成随机乱线。
+
+整体色调以白色、骨白、浅灰、雾灰为主，家具可使用浅棕皮革、深木色、黑色金属和少量暖光。真实空间是第一视觉，建筑分析线稿是第二视觉。最终效果应像真实室内空间与建筑图纸系统融合的艺术化作品集页面。
+
+不要做成规整信息展板，不要做成课堂分析图，不要赛博科技 UI，不要随机乱码，不要满屏无意义线条，不要空房间，不要过度商业软装。
+
+
+4.客厅+分析3
+
+请基于上传的室内垫图进行风格转绘，严格保持垫图的空间构图、相机视角、家具位置、墙面关系、开窗 / 门洞关系和整体空间内容不变，不要重新发明一个完全不同的室内。
+
+只改变图像风格，将其转化为艺术化室内建筑研究图：真实室内空间 + 白色图纸墙面 + 黑色建筑分析线稿 + 作品集拼贴感。
+
+请在原有墙面或大面积浅色背景区域加入建筑分析线稿，线稿需要与当前空间对应，包括少量平面叠图、立面线稿、剖面提示、空间轴线、网格线、比例线、尺寸标注、节点编号、圆形局部放大图和材料分析小图。分析图应轻盈、精确、艺术化，不要随机乱画。
+
+保持真实家具与空间为第一视觉，分析图层为第二视觉。整体色彩参考白色、骨白、浅灰、雾灰，搭配浅棕皮革、木色、黑色金属和少量暖光。最终效果应接近高级建筑作品集中的室内空间研究图，而不是普通室内效果图或规整信息展板。
+
+

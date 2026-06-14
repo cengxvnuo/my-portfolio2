@@ -1,0 +1,132 @@
+1：室内🌂
+请分别生成4张艺术化室内建筑研究图。 
+
+画面主体是一个真实可信的现代 lounge / 客厅空间，空间必须先成立为真实室内效果图，具有明确的墙面、地面、家具、灯具、进深和材质关系。空间中需要有沙发、单椅、茶几、地毯、吊灯或吊灯组、边几和少量陈设，整体具有高端室内设计感。
+
+画面需要有一面大面积白色或浅灰白墙面，这面墙作为建筑图纸场域。请在墙面上融合黑色建筑分析线稿，而不是贴一张独立海报。线稿应像建筑师的空间研究图层，轻盈、精密、艺术化，并与当前空间对象对应。
+
+分析图内容可以包括：平面叠图、局部平面图、立面线稿、剖面提示、空间轴线、网格线、比例弧线、尺寸标注、节点编号、圆形局部放大图、材料或纹理分析小图。分析图数量可以丰富，但需要有层级，不要变成随机乱线。
+
+整体色调以白色、骨白、浅灰、雾灰为主，家具可使用浅棕皮革、深木色、黑色金属和少量暖光。真实空间是第一视觉，建筑分析线稿是第二视觉。最终效果应像真实室内空间与建筑图纸系统融合的艺术化作品集页面。
+
+不要做成规整信息展板，不要做成课堂分析图，不要赛博科技 UI，不要随机乱码，不要满屏无意义线条，不要空房间，不要过度商业软装。
+
+
+
+🌂建筑 线稿标注 文生图1：gpt image 2
+
+artistic architectural research image
+contemporary narrow townhouse
+white drawing-sheet background
+real architectural visualization mixed with hand-drawn sketch overlay
+black architectural linework
+street elevation and urban context
+thin annotation lines
+dotted circulation arcs
+circular detail callouts
+warm interior glow
+white field, black ink, architectural collage
+poetic portfolio mood
+4张
+
+
+
+🌂客厅+线稿 文生图 GPT (1)
+
+请输出4张图
+Create an artistic interior architectural research image.
+
+Show a real, believable, well-furnished modern lounge / living room with enough furniture for actual use: sofa, lounge chairs, coffee table, rug, pendant light(s), side table, and small decor. The interior must also include a window, opening, or doorway leading to another space, so the room feels complete and spatially layered.
+
+The space should have a large white wall used as a drawing field, but the final image must not look like a rigid infographic board. Instead, it should feel like a real interior fused with an artistic architectural analysis layer.
+
+Use only a small amount of accurate analysis graphics, integrated naturally into the wall: a few black architectural lines, a few axes or dimensions, one small artistic colored plan diagram, and one small plan / material texture diagram. The wall should feel visually rich, but not overloaded.
+
+The floor should not be reflective. Use a matte artistic floor material such as pale stone, microcement, or textured architectural flooring.
+Overall palette: mostly white, off-white, pale gray, with a few tan leather, light wood, and black accents.
+
+The final image should feel like:
+real interior space + limited but accurate analysis + artistic architectural collage quality, closer to the reference mood, but not identical.
+
+3）室内负向限制
+
+not a rigid infographic board, not a classroom wall diagram, not a blank empty room, not too little furniture, not reflective tile floor, not cyberpunk, not random technical noise, not dense fake text, not a framed poster on the wall
+
+
+
+🌂客厅空间分析1
+
+请生成一张建筑作品集 / 室内研究页风格的空间分析图像。
+
+画面主体是一处真实可信、信息饱满的现代室内空间，整体像高质量建筑摄影与室内渲染的结合。空间需要具有明确的地面、墙面、家具、灯具、进深关系和材质细节，不能过空，必须有足够的生活性和真实感。即使去掉所有线稿，这仍然应该是一张完整的室内空间图。
+
+画面同时融合一个白色或浅暖灰色的图纸场域。这个图纸场域可以主要位于背景墙面，也可以沿着空间立面和局部区域延展，但必须依附于空间边界和建筑关系，而不是悬浮为纯装饰。线稿与图纸信息主要围绕空间的立面、家具布置区、背景墙、局部平面关系和空间轴线展开，形成“真实空间 + 建筑图纸叠层”的研究页视觉。
+
+这张图的线稿系统应更像建筑分析图、平面网格、立面关系图、局部剖面叠图、尺寸线、编号系统和小型节点图的混合，而不是科技UI。可包含：平面叠图、立面轮廓、剖面辅助线、家具布置网格、模数线、空间轴线、局部节点编号、功能分区、动线组织、视线方向、局部材料说明、局部小图框、少量圆形放大分析窗。所有线稿都必须与画面中的真实空间对象对齐并具有分析意义。
+
+空间建议具有更强的作品集感：可以是一个开放客厅、共享会客区、挑高大厅或高端公共室内空间；包含沙发、单椅、茶几、灯具、地毯、背景墙、边桌、植物或局部陈设。真实材质必须有重量，特别是木材、皮革、金属、石材、玻璃和织物。分析线稿要薄、轻、克制、半透明感，不得压过主体空间。
+
+构图逻辑：真实空间主体位于中下部和中央；背景墙和上方区域承载较高密度的图纸信息；局部区域可有少量线稿穿插过家具和地面，但必须保持空间仍然是第一视觉主体。整体效果要像建筑师的空间研究页、室内方案分析页、作品集概念页，而不是普通客厅效果图。
+
+配色要求：暖白、骨白、雾灰、浅米灰作为基底；搭配木棕、皮革棕、深灰、石材灰；线稿用浅灰、炭灰和少量黑色节点；允许极少量暖金属色作微小强调。整体必须低饱和、干净、克制、高级。
+
+整体气质：建筑图纸化摄影、设计研究页、室内空间分析、作品集表达、安静理性、精密而优雅。
+
+
+🌂客厅空间分析2
+
+请生成4张高端室内空间分析图风格图像：
+
+画面主体必须是一个真实可信、信息饱满的现代室内空间，而不是抽象海报。空间需要有明确的地面、墙面、天花、家具、窗、光线、材质和陈设，整体像高质量室内摄影或建筑渲染。
+
+请在画面中保留一面大面积干净的浅色墙面，作为建筑空间分析图的承载面。线框分析图主要放置在这面白色墙面上，像画在墙面或投影在墙面上的建筑分析图，不要让线稿漂浮覆盖整张画面，也不要遮挡家具、窗景和主要空间细节。
+
+墙面上的线框图必须针对当前室内空间本身进行分析，内容包括：
+空间轴线、功能分区、家具布置关系、动线组织、视线方向、采光路径、立面比例、开口关系、尺度标注、局部节点编号、材料分区说明。
+
+所有图形都必须有明确用途，与空间对象直接对应。禁止无意义圆圈、随机弧线、伪科技 UI、装饰性乱码、假工程符号、与空间无关的抽象图形。
+
+构图要求：真实室内空间信息饱满，前景和下方有家具、地面、光影、材质细节；中上部或一侧保留大面积浅色墙面，用来承载细密、克制、可读的空间分析线稿。空间与图纸层要融合自然，像建筑师在真实室内墙面上展示空间分析成果。
+
+配色要求：暖灰白、骨白、浅灰为主，搭配少量深木色、烟灰棕、哑光金属色；线稿使用浅灰、炭灰和极少量铜金节点。整体低饱和、高级、安静、理性、精密。禁止高饱和科技蓝、荧光色、赛博朋克光效、大面积黑色 UI 层。
+
+画面气质：真实室内空间、建筑分析图、墙面图纸展示、克制高级、空间信息饱满、线稿有用且准确。
+
+
+🌂客厅空间分析3
+An interior space, (Architectural diagram style:1.5), minimalist graphic. White microcement finish walls, modern minimalist furniture. Overlaid with technical drawing lines, schematic dimensions, and fragmented geometry. Soft diffused light, overcast flat lighting. Clay render, ambient occlusion render, tilt-shift photography, straight vertical lines, highly detailed, clean white background, 8k resolution.
+mutated structures, distorted perspective, tilted walls, warped lines, messy environment, cluttered, text, watermarks, ugly, poorly rendered, noisy, blurry, photorealistic, heavy textures, strong shadows, overexposed.
+
+
+🌂客厅空间分析4--banana 2
+Create an artistic interior architectural research image.
+
+The image must show a bright, elegant, believable modern lounge interior with a very large pure white wall and a glossy reflective white tile floor. The space should feel real, refined, and high-end, with only a few carefully placed furniture pieces: for example a white or light sofa, two tan leather lounge chairs, and a low dark coffee table. The overall palette should be predominantly white, with a few warm tan or wood accents.
+
+The key is that this should not look like a rigid interior analysis board. Instead, it should feel like an artistic architectural study where the room and the analytical drawing layer are beautifully fused.
+
+The white wall acts as a drawing field. Across this wall, and lightly extending into parts of the space, place pure black architectural linework that analyzes the room itself. The drawing layer should feel airy, light, elegant, and slightly floating — not like a framed poster stuck on the wall.
+
+Use only a limited and meaningful set of analysis graphics:
+
+a few plan or elevation traces
+a few spatial axes
+a few proportional lines
+a few dimensions
+1 to 2 circular detail callouts
+a few numbered notes or very short labels
+
+Do not use large text blocks, dense explanation paragraphs, or too many diagram types. Avoid turning the image into a rigid infographic. The analytical layer should feel integrated, poetic, and spatial.
+
+The final effect should feel like:
+a real interior space interpreted through an artistic architectural drawing system.
+The linework should be thin, pure black, and precise. The room remains the primary subject. The analytical graphics remain sparse, elegant, and secondary.
+
+Style keywords: artistic interior research image, architectural drawing overlay, pure white wall, glossy white floor, black linework, airy, refined, elegant, high contrast, architectural portfolio mood, not stiff, not poster-like.
+
+Negative
+
+Do not make it a rigid wall infographic, not a classroom diagram board, not dense fake text, not too many labels, not cyberpunk, not UI style, not decorative random lines, not a blank empty room.
+
+
+

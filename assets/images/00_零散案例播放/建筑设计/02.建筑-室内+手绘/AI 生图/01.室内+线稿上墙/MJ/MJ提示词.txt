@@ -1,0 +1,35 @@
+室内1：
+
+请生成一张高端室内空间分析图风格图像: 画面主体必须是一个真实可信、信息饱满的现代室内空间，而不是抽象海报。空间需要有明确的地面、墙面、天花、家具、窗、光线、材质和陈设，整体像高质量室内摄影或建筑渲染。 请在画面中保留一面大面积干净的浅色墙面，作为建筑空间分析图的承载面。线框分析图主要放置在这面白色墙面上，像画在墙面或投影在墙面上的建筑分析图，不要让线稿漂浮覆盖整张画面，也不要遮挡家具、窗景和主要空间细节。 墙面上的线框图必须针对当前室内空间本身进行分析，内容包括: 空间轴线、功能分区、家具布置关系、动线组织、视线方向、采光路径、立面比例、开口关系、尺度标注、局部节点编号、材料分区说明。 所有图形都必须有明确用途，与空间对象直接对应。禁止无意义圆圈、随机弧线、伪科技 UI、装饰性乱码、假工程符号、与空间无关的抽象图形。 构图要求:真实室内空间信息饱满，前景和下方有家具、地面、光影、材质细节；中上部或一侧保留大面积浅色墙面，用来承载细密、克制、可读的空间分析线稿。空间与图纸层要融合自然，像建筑师在真实室内墙面上展示空间分析成果。 配色要求:暖灰白、骨白、浅灰为主，搭配少量深木色、烟灰棕、哑光金属色；线稿使用浅灰、炭灰和极少量铜金节点。整体低饱和、高级、安静、理性、精密。禁止高饱和科技蓝、荧光色、赛博朋克光效、大面积黑色 UI 层。 画面气质:真实室内空间、建筑分析图、墙面图纸展示、克制高级、空间信息饱满、线稿有用且准确。 --ar 2:3
+
+
+室内2：
+创建一张"博物馆 / 展览空间信息图"风格的高端视觉图。画面主体是一处安静、克制、低饱和的展览空间或展厅场景，整体具有高级编辑感、导览系统感和空间化阅读体验。不要复制参考图中的具体窗型、家具、圆形线稿和标注位置，只迁移其"静谧空间 + 精密图层叠加"的底层图像逻辑。 在线稿叠层中加入真正有用、可读、与展览空间直接相关的信息，而不是装饰性科技线稿。叠加信息可包括:展区分区、观展流线、入口 / 出口、重点展项编号、推荐观看点、叙事章节结构、观众停留点、互动节点、视线焦点、局部导览图。所有图形必须有明确作用，并与空间对象一一对应。不能出现无意义圆圈、随机弧线、伪科技UI噪点、乱码小字或似是而非的专业信息。 整体版式应清晰、克制、精密、留白充足，兼具博物馆导览图与高端展览视觉页的气质。配色以雾白、米灰、浅暖灰为主，辅以木棕、石灰、炭灰和极少量铜金或深色节点作为强调。整体效果应像一张真正可用的展览空间导览信息图，而不是纯视觉装饰图。 --ar 2:3
+
+
+建筑1：
+architectural portfolio style building analysis image, original contemporary building design inspired by architectural presentation logic but not identical to the reference, refined narrow townhouse or boutique gallery house, believable modern massing, clean geometry, white presentation field background, high contrast black architectural line drawings, pure black linework, elevation traces, section hints, dimensions, axes, site alignment lines, circulation arrows, detail callouts, a few circular detail windows, real building first, analysis second, mostly white palette, crisp contrast, subtle black framing, pale materials, a few warm interior lights, elegant editorial architectural mood, not a copy, not cyberpunk, not random graphic noise --no neon, cyberpunk, messy UI, fake dense text, excessive scribbles, dark background, exact copy of reference --ar 3:4 --stylize 85
+
+
+室内3：
+An interior space, (Architectural diagram style:1.5), minimalist graphic. White microcement finish walls, modern minimalist furniture. Overlaid with technical drawing lines, schematic dimensions, and fragmented geometry. Soft diffused light, overcast flat lighting. Clay render, ambient occlusion render, tilt-shift photography, straight vertical lines, highly detailed, clean white background, 8k resolution.
+mutated structures, distorted perspective, tilted walls, warped lines, messy environment, cluttered, text, watermarks, ugly, poorly rendered, noisy, blurry, photorealistic, heavy textures, strong shadows, overexposed.
+
+
+
+建筑2：
+poetic architectural research collage, narrow contemporary townhouse inserted into a white architectural drawing field, realistic building render blended with loose black ink architectural sketch, central vertical townhouse volume, warm interior lights, transparent glass facade, muted brick and black metal details, surrounding urban context reduced to delicate line drawings, white empty background like an architect's tracing paper, black hand-drawn annotations, dotted movement paths, vertical reference lines, facade study marks, a few circular zoom-in callouts, small street trees and tiny people, airy composition, unfinished design study mood, architectural portfolio atmosphere, refined black and white linework, elegant, experimental, not polished infographic, not technical board --ar 4:5 --stylize 150
+
+
+室内4
+生成一张高端室内空间分析图风格图像。
+
+画面主体必须是一个真实可信、信息饱满的现代室内空间，具有明确的地面、墙面、天花、家具、窗、光线、材质和陈设，整体像高质量室内摄影或建筑渲染。空间本身必须能够独立成立，不能只是线稿背景板。
+
+请保留一面或一大片干净的浅色墙面 / 白色图纸场域，作为建筑分析图的承载面。分析线稿主要集中在这块墙面或白色背景区域，不要漂浮铺满整张画面，也不要大面积覆盖家具和空间主体。
+
+线框图必须针对当前空间本身进行分析，内容可包括：空间轴线、功能分区、家具布置关系、平面叠图、立面 / 剖面关系、动线组织、视线方向、采光路径、开口关系、尺度标注、局部节点编号、材料分区说明、局部放大分析图。所有图形都必须有明确用途，并与空间对象直接对应。
+
+画面构图应体现：下方和中下方是真实空间主体、家具、地面和材质细节；中上方或背景大面积浅色墙面承载高密度但克制的分析图层；中间区域为空间与图纸系统的自然融合。整体像建筑作品集中的空间研究页，而不是普通室内图或赛博科技海报。
+
+配色以暖灰白、骨白、米灰、浅灰为主，搭配少量深木色、皮革棕、石材灰、黑色和少量金属色。线稿使用浅灰和炭灰，极少量铜金色节点。整体低饱和、克制、高级、理性、精密。
