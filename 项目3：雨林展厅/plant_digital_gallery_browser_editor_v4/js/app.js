@@ -210,6 +210,15 @@ function canLoadImageUrl(url) {
   });
 }
 
+function loadImageElement(url) {
+  return new Promise((resolve, reject) => {
+    const img = new Image();
+    img.onload = () => resolve(img);
+    img.onerror = () => reject(new Error('图片加载失败：' + url));
+    img.src = url;
+  });
+}
+
 /** 常见文件名笔误 → assets 中实际文件名 */
 const MEDIA_FILENAME_ALIASES = {
   '7次放大并退后.png': '2次放大并退后.png',
@@ -1629,7 +1638,7 @@ async function renderPanoramaAsync(room, options = {}) {
 
   try {
     const initial = options.preserveView && viewState ? viewState : room.initialView;
-    viewer = pannellum.viewer('panorama', {
+    const viewerConfig = {
       type: 'equirectangular',
       panorama: panoLoadUrl,
       autoLoad: true,
@@ -1639,7 +1648,30 @@ async function renderPanoramaAsync(room, options = {}) {
       hfov: initial?.hfov ?? 105,
       sceneFadeDuration: galleryData.settings?.defaultSceneFadeDuration || 800,
       hotSpots
-    });
+    };
+
+    if (location.protocol === 'file:' && /^file:/i.test(String(panoLoadUrl))) {
+      viewerConfig.dynamic = true;
+      viewerConfig.panorama = await loadImageElement(panoLoadUrl);
+    }
+
+    viewer = pannellum.viewer('panorama', viewerConfig);
+
+    if (location.protocol === 'file:' && /^file:/i.test(String(panoLoadUrl))) {
+      let loaded = false;
+      try {
+        viewer.on('load', () => { loaded = true; });
+      } catch (eventErr) {
+        loaded = true;
+      }
+      window.setTimeout(() => {
+        if (!loaded && viewer) {
+          try { viewer.destroy(); } catch (destroyErr) { /* ignore */ }
+          viewer = null;
+          renderFlatPanoramaFallback(room, panoLoadUrl);
+        }
+      }, 5000);
+    }
   } catch (err) {
     console.error(err);
     if (panoLoadUrl) {
